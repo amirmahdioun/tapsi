@@ -1,0 +1,65 @@
+@import "font.css";
+
+
+/* VARIABLES */
+:root {
+    --navbar-backgroundColor: #F8F8F8;
+    --primary-color: #FF5722;
+    --secondary-light-color: #FFF6F2;
+    --secondary-dark-color: #FFA589;
+    --text-primary-color: #000000;
+    --text-secondary-color: #333333;
+    --text-white-color: #FFFFFF;
+
+}
+
+/* RESET */
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: IranSans, serif;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    color: var(--text-secondary-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--text-primary-color);
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 2.8rem;
+}
+
+h3 {
+    font-size: 2.2rem;
+}
+
+.container{
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+    h1 {
+        font-size: 5rem;
+    }
+
+    h2 {
+        font-size: 3.5rem;
+    }
+
+    h3 {
+        font-size: 2.8rem;
+    }
+}
