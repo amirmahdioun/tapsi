@@ -2,33 +2,33 @@
     font-family: IranSans;
     font-weight: 500;
     font-style: normal;
-    src: url("../fonts/IRANSansWeb_Medium.woff") format('woff');
+    src: url("../fonts/Qs_Iranyekan medium.ttf") format('woff');
 }
 
 @font-face {
     font-family: IranSans;
     font-weight: 300;
     font-style: normal;
-    src: url("../fonts/IRANSansWeb_Light.woff") format('woff');
+    src: url("../fonts/Qs_Iranyekan light.ttf") format('woff');
 }
 
 @font-face {
     font-family: IranSans;
     font-weight: 100;
     font-style: normal;
-    src: url("../fonts/IRANSansWeb_UltraLight.woff") format('woff');
+    src: url("../fonts/Qs_Iranyekan thin.ttf") format('woff');
 }
 
 @font-face {
     font-family: IranSans;
     font-weight: 700;
     font-style: normal;
-    src: url("../fonts/IRANSansWeb_Bold.woff") format('woff');
+    src: url("../fonts/Qs_Iranyekan bold.ttf") format('woff');
 }
 
 @font-face {
     font-family: IranSans;
     font-weight: 900;
     font-style: normal;
-    src: url("../fonts/IRANSansWeb_Black.woff") format('woff');
+    src: url("../fonts/Qs_Iranyekan black.ttf") format('woff');
 }
